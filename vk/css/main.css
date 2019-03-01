@@ -1,0 +1,46 @@
+body {
+  background: #0E1621;
+  color: #fff;
+  font-family: 'Montserrat', sans-serif;
+  padding:0;
+  margin:0;
+}
+
+div, p, a, img, form, button {
+  box-sizing: border-box;
+}
+.nav	 {
+    display: flex;
+}
+
+  ul, li {
+    padding: 0;
+    margin: 0;
+    display: flex;
+}
+.logo {
+  margin-top: 4px;
+  margin-left: 260px;
+}
+.text.ts_input {
+    border: 0;
+    box-sizing: border-box;
+    padding: 6px 6px 6px 19px;
+    height: 32px;
+    line-height: 16px;
+    width: 230px;
+    border-radius: 10px;
+    margin-top: 4px;
+    margin-left: 52px;
+    background: #0e1f33 !important;
+    font-size: 16px;
+    font-family: Montserrat;
+    color: #cccccc;
+    outline:none;
+}
+.container{
+    width: 1920px;
+    height: 40px;
+    background: linear-gradient(to right, #18567f, #11002a);
+    margin-bottom: 10px;
+}
