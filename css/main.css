@@ -44,3 +44,218 @@ div, p, a, img, form, button {
     background: linear-gradient(to right, #18567f, #11002a);
     margin-bottom: 10px;
 }
+.left_block {
+  padding: 35px;
+  width: 870px;
+  height: 490px;
+  background: #17212b;
+  margin-top: 40px;
+  margin-left: 265px;
+  border-radius: 15px;
+  margin-right: 780px;
+}
+
+.index_user_header {
+  font-size: 25px;
+  color: #878686;
+
+}
+
+.right_block {
+  width: 450px;
+  height: 870px;
+  position:absolute;
+  left:1170px;
+  top:80px;
+}
+.sign{
+  width: 450px;
+  height: 285px;
+  border-radius: 15px;
+  background: #17212b;
+}
+.reg{
+  width: 450px;
+  height: 550px;
+  border-radius: 15px;
+  background: #17212b;
+  margin-top: 25px;
+
+}
+.content {
+  width: 1660px;
+  height: 1660px;
+}
+.left-block2 {
+  width: 870px;
+  height: 490px;
+  margin-left: 265px;
+  background: #17212b;
+  margin-top: 25px;
+  border-radius: 15px;
+}
+.user1{
+  width: 725px;
+  height: 180px;
+  background-color:#1e3342;
+  margin-top: 25px;
+  border-radius: 15px;
+  display: flex;
+}
+.user2{
+  width: 725px;
+  height: 180px;
+  background-color:#1e3342;
+  margin-top: 20px;
+  border-radius: 15px;
+  display: flex;
+}
+.user-logo{
+  margin-top: 6px;
+}
+.user-logo2{
+  margin-top: 23px;
+  margin-left: 15px;
+}
+.name{
+   color: #ffffff;
+   position:absolute;
+   margin-top: 40px;
+   margin-left: 173px;
+   font-size: 30px;
+}
+
+.text.ts_input_name {
+    border: 0;
+    box-sizing: border-box;
+    padding: 6px 6px 6px 19px;
+    height: 56px;
+    line-height: 16px;
+    border-radius: 13px;
+    background: #0e1621 !important;
+    font-size: 19px;
+    font-family: Montserrat;
+    color: #adadad;
+    outline:none;
+    position:absolute;
+}
+
+#name {
+  margin-left: 175px;
+  margin-top: 105px;
+  width: 230px;
+}
+
+#Phone_or_Email{
+  margin-left: 33px;
+  margin-top: 34px;
+  width: 230px;
+}
+
+#Password{
+  margin-left: 33px;
+  margin-top: 108px;
+  width: 230px;
+}
+.login{
+  border: 0;
+  box-sizing: border-box;
+  padding: 6px 6px 6px 19px;
+  height: 56px;
+  line-height: 16px;
+  width: 160px;
+  border-radius: 30px;
+  background: #185680 !important;
+  font-size: 25px;
+  font-family: Montserrat;
+  color: #ffffff;
+  outline:none;
+  position:absolute;
+}
+  .login:hover {
+  transform: scale(1.04);
+}
+
+
+#login{
+  margin-left: 33px;
+  margin-top: 190px;
+}
+.text1 {
+     position: absolute;
+     color: #ffffff;
+     margin-left: 70px;
+     margin-top: 25px;
+     font-size: 36px;
+}
+.text2 {
+     position: absolute;
+     color: #878686;
+     margin-left: 30px;
+     margin-top: 10px;
+     font-size: 30px;
+}
+#YourFirstName{
+  margin-top: 70px;
+  width: 310px;
+}
+
+#YourLastName{
+  margin-top: 140px;
+  width: 310px;
+}
+.text3 {
+  position: absolute;
+  color: #878686;
+  margin-left: 65px;
+  margin-top: 210px;
+  font-size: 23px;
+}
+#Day {
+  margin-top: 260px;
+  width: 100px;
+  position: absolute;
+}
+#Month {
+  margin-left: 105px;
+  margin-top: 260px;
+  width: 100px;
+  position: absolute;
+}
+#Year {
+  margin-left: 210px;
+  margin-top: 260px;
+  width: 100px;
+  position: absolute;
+}
+.text4 {
+  position: absolute;
+  margin-top: 330px;
+  font-size: 23px;
+  color: #878686;
+  margin-left: 65px;
+}
+label {
+  font-size: 23px;
+  position: absolute;
+  margin-top: 380px;
+  margin-left: px;
+}
+.text5 {
+  position: absolute;
+  margin-top: 40px;
+  margin-left: 40px;
+  color: #ffffff;
+  font-size:40px;
+}
+.text6 {
+  position: absolute;
+  margin-top: 90px;
+  margin-left: 40px;
+  color: #878686;
+  font-size: 30px;
+}
+.IPhone {
+  position: absolute;
+  margin-left: 100px;
+}
